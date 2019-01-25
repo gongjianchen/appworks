@@ -1,4 +1,5 @@
 --- This is a sample -------
+0) Install PHP7, MySQL 5, and Ubuntu 18+;
 1) Create DB Tables found in the DB folder;
 2) Change credential, database in /source/appconfig.php
 3) Start app setup guide /source/setup.php
