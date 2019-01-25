@@ -1,2 +1,2 @@
-# Your venture begins here
+# Your adventure begins here
 please organize your codes in the folders.
