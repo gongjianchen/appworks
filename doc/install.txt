@@ -1,5 +1,10 @@
---- This is a sample -------
-0) Install PHP7, MySQL 5, and Ubuntu 18+;
-1) Create DB Tables found in the DB folder;
-2) Change credential, database in /source/appconfig.php
-3) Start app setup guide /source/setup.php
+---------- This is a sample --------
+10) In order to print PDF reports, you must install wkhtmltopdf yourself;
+
+12) The 3 following python packages are required: python3-vobject, python3-pyldap and python3-qrcode;
+         
+20) Create DB Tables found in the DB folder;
+
+30) Change credential, database in /source/appconfig.php
+
+40) Start app setup guide /source/setup.php
